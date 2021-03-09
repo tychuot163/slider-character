@@ -1,0 +1,24 @@
+{
+  "name": "slider-microinteraction",
+  "version": "1.0.0",
+  "description": "Based on dribbble shot by:\nhttps://dribbble.com/shots/4815842-User-Reviews-Micro-Interactions (UI 8 - Desktop)\nhttps://dribbble.com/shots/4818311-Top-Artists-Player (Che Harvey - Mobile)\ncredits to react-slick for slider library",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.8.3",
+    "react-dom": "16.8.3",
+    "react-scripts": "2.0.3",
+    "react-slick": "0.23.2",
+    "react-responsive": "^6.1.1",
+    "classnames": "^2.2.6",
+    "react-router-dom": "4.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}
